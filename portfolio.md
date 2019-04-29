@@ -1,10 +1,10 @@
 ---
 layout: page
-title: portfolio
-permalink: /portfolio/
+title: Kategoriler
+permalink: /kategoriler/
 ---
 
-{% for project in site.portfolio %}
+{% for project in site.kategoriler %}
 
 {% if project.redirect %}
 <div class="project">

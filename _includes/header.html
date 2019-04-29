@@ -5,11 +5,10 @@
     <nav class="site-nav">
 
       <div class="trigger">
-        <a href="https://davetlimiz.com" align="left">Davetlimiz</a>
+        <a class="page-link" href="{{ site.baseurl }}/">Davetlimiz</a>
         <!-- {{ site.title }} instead of blog -->
         <button href="https://makale.ekofi.science">Ücretsiz başvuruda bulunun</button>
         <button href="https://davetlimiz.com/sablonlar">Şablonlar</button>
-        <a class="page-link" href="{{ site.baseurl }}/">blog</a>
 
         {% for page in site.pages %}
           {% if page.title %}

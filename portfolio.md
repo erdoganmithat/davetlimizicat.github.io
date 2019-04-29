@@ -4,7 +4,7 @@ title: Kategoriler
 permalink: /kategoriler/
 ---
 
-{% for project in site.kategoriler %}
+{% for project in site.portfolio %}
 
 {% if project.redirect %}
 <div class="project">

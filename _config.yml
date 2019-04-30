@@ -1,8 +1,8 @@
 # Site settings
 title: Davetlimiz.com - Ücretsiz etkinlik, gezi, kafe sitesi oluşturun
-email: you@example.com
-description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+email: proxima@ekofi.science
+description:  # this means to ignore newlines until "baseurl:"
+  Ücretsiz etkinlik, gezi, kafe sitesi mi istiyorsunuz? Davetlimiz.com size en iyisini yapar.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  https://davetlimiz.com # the base hostname & protocol for your site
 twitter_username: twitter_username

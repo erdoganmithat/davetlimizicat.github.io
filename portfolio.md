@@ -1,47 +1,16 @@
 ---
 layout: page
-title: Kategoriler
-permalink: /kategoriler/
+title: Premium
+permalink: /premium/
 ---
 
-{% for project in site.portfolio %}
+<h2><b>Premium: 10TL/Proje</b></h2>
+<p>Reklam yok.</p>
+<p><b>Doyasıya özgürlük.</b> İstediğiniz özel temada etkinlik oluşturun.</p>
 
-{% if project.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% else %}
 
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-
-{% endif %}
-
-{% endfor %}
+<h2><b>Premium +: 20TL/Proje</b></h2>
+<p>Reklam yok.</p>
+<p><b>Doyasıya özgürlük.</b> İstediğiniz özel temada etkinlik oluşturun.</p>
+<p>İstediğiniz alan adında etkinlik oluşturun.</p>
+<p>SSL rehberliği + ücretsiz SSL</p>

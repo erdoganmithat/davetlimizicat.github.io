@@ -20,7 +20,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a rel="me" href="https://twitter.com/intent/tweet?text=Hello%20world" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="https://twitter.com/intent/tweet?via=Davetlimiz&text=Ücretsiz+web+sitemi+Davetlimiz+ile+kurdum!%20https%3A%2F%2Fdavetlimiz.com%2F" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">

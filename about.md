@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: Hakkımızda - Ücretsiz ama güvenli mi?
 permalink: /about/
 ---
 

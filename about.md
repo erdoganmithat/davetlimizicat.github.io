@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hakkımızda - Ücretsiz ama güvenli mi?
+title: Sistem nasıl çalışır?
 permalink: /hakkimizda/
 ---
 

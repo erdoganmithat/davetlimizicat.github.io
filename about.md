@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hakkımızda - Ücretsiz ama güvenli mi?
-permalink: /about/
+permalink: /hakkimizda/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">

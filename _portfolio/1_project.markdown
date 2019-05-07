@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Düğün - Evlilik
-description: a
+description: 
 img: /img/marriage.jpg
 ---
 
